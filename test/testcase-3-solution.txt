@@ -1,0 +1,5 @@
+0
+NO SOLUTION FOUND
+Time taken: 0.0007423 seconds.
+
+
