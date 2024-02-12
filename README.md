@@ -42,3 +42,15 @@ realmain.exe
 ```
 
 ## User Guide
+
+At the very beginning of the program, it will offer 2 ways of data input:
+
+**Manual Input**: You will be asked to input your desired number of unique tokens, the unique tokens themselves, buffer size, matrix dimensions, the amount of target sequences and their lengths. The program will then randomize the matrix and target sequences and find the maximum value buffer.
+**File Input**: Add to the test folder your file with .txt extension. Any other extension or any other directory will result the program to be faulty. The program will then find the maximum value buffer.
+
+When the final buffer is completed the program will offer you to save your solution to a file.
+
+## Creator
+
+Daniel Mulia Putra Manurung
+danielmuliaputraolo@gmail.com
