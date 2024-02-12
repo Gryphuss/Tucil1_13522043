@@ -52,5 +52,5 @@ When the final buffer is completed the program will offer you to save your solut
 
 ## Creator
 
-Daniel Mulia Putra Manurung
+Daniel Mulia Putra Manurung  
 danielmuliaputraolo@gmail.com
