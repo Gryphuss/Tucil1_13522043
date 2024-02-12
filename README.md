@@ -18,9 +18,6 @@ git clone https://github.com/Gryphuss/Tucil1_13522043.git
 
 ```cmd
 cd Tucil1_13522043
-```
-
-```cmd
 cd bin
 ```
 
