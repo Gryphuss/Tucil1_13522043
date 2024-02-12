@@ -6,6 +6,21 @@ A program designed to solve the Breach Protocol minigame in Cyberpunk 2077 with 
 
 ## Requirements
 
+### For Windows
+
+Make sure you have MinGW-w64 that provides the GCC compiler for windows.
+
+1. Download and install MinGW-w64.
+2. Add that the bin directory of MinGW-w64 to your system's PATH variable to access the **g++** compiler
+
+### For Linux
+
+Make sure you have **GCC** compiler collection installed. Usually GCC is inculded in Ubuntu, but if it's not installed you can install **g++** with the following command.
+
+```bash
+sudo apt install g++
+```
+
 ## Installation
 
 1. Clone the repository
@@ -41,6 +56,14 @@ realmain.exe
 ./realmain
 ```
 
+If you wish to compile the program, you can do it by using the following command
+
+```cmd
+cd ..
+cd src
+g++ -o exec_name realmain.cpp
+```
+
 ## User Guide
 
 At the very beginning of the program, it will offer 2 ways of data input:
@@ -52,5 +75,5 @@ When the final buffer is completed the program will offer you to save your solut
 
 ## Creator
 
-Daniel Mulia Putra Manurung  
+Daniel Mulia Putra Manurung - 13522043  
 danielmuliaputraolo@gmail.com
