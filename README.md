@@ -41,12 +41,6 @@ cd bin
 ### Windows
 
 ```cmd
-./realmain.exe
-```
-
-or
-
-```cmd
 realmain.exe
 ```
 
