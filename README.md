@@ -8,16 +8,40 @@ A program designed to solve the Breach Protocol minigame in Cyberpunk 2077 with 
 
 ## Installation
 
+1. Clone the repository
+
+```cmd
+git clone https://github.com/Gryphuss/Tucil1_13522043.git
+```
+
+2. Navigate to bin directory
+
+```cmd
+cd Tucil1_13522043
+```
+
+```cmd
+cd bin
+```
+
+3. Execute the compiled C++ program
+
 ### Windows
 
-1. Clone the repository `git clone https://github.com/Gryphuss/Tucil1_13522043.git`
-2. Navigate to bin directory `cd Tucil1_13522043` `cd bin`
-3. Execute the compiled C++ program `./realmain.exe` or `realmain.exe`
+```cmd
+./realmain.exe
+```
+
+or
+
+```cmd
+realmain.exe
+```
 
 ### Linux
 
-1. Cline the repository `git clone https://github.com/Gryphuss/Tucil1_13522043.git`
-2. Navigate to bin directory `cd Tucil1_13522043` `cd bin`
-3. Execute the compiled C++ program `./realmain`
+```cmd
+./realmain
+```
 
 ## User Guide
